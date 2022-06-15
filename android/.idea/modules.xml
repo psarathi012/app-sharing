@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rajput_Lagn.iml" filepath="$PROJECT_DIR$/.idea/modules/Rajput_Lagn.iml" group="Rajput_Lagn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Rajput_Lagn/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-942977205/react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-942977205/react-native-community_clipboard.iml" group="Rajput_Lagn/react-native-community_clipboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/349507316/react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/349507316/react-native-community_datetimepicker.iml" group="Rajput_Lagn/react-native-community_datetimepicker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1407517212/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1407517212/react-native-community_masked-view.iml" group="Rajput_Lagn/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1185416158/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1185416158/react-native-firebase_app.iml" group="Rajput_Lagn/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1641237835/react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1641237835/react-native-firebase_auth.iml" group="Rajput_Lagn/react-native-firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/605117032/react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/605117032/react-native-firebase_firestore.iml" group="Rajput_Lagn/react-native-firebase_firestore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/926315521/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/926315521/react-native-firebase_messaging.iml" group="Rajput_Lagn/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1316955208/react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1316955208/react-native-firebase_storage.iml" group="Rajput_Lagn/react-native-firebase_storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1943537400/react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/1943537400/react-native-fs.iml" group="Rajput_Lagn/react-native-fs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1177245125/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1177245125/react-native-gesture-handler.iml" group="Rajput_Lagn/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-529698133/react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-529698133/react-native-image-picker.iml" group="Rajput_Lagn/react-native-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-557294003/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-557294003/react-native-linear-gradient.iml" group="Rajput_Lagn/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1138065030/react-native-otp-verify.iml" filepath="$PROJECT_DIR$/.idea/modules/1138065030/react-native-otp-verify.iml" group="Rajput_Lagn/react-native-otp-verify" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1814956155/react-native-razorpay.iml" filepath="$PROJECT_DIR$/.idea/modules/-1814956155/react-native-razorpay.iml" group="Rajput_Lagn/react-native-razorpay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/834091777/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/834091777/react-native-reanimated.iml" group="Rajput_Lagn/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1104797724/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1104797724/react-native-safe-area-context.iml" group="Rajput_Lagn/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1864977660/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1864977660/react-native-screens.iml" group="Rajput_Lagn/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1197459308/react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/-1197459308/react-native-share.iml" group="Rajput_Lagn/react-native-share" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/701627639/react-native-sms-retriever.iml" filepath="$PROJECT_DIR$/.idea/modules/701627639/react-native-sms-retriever.iml" group="Rajput_Lagn/react-native-sms-retriever" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-113548455/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-113548455/react-native-svg.iml" group="Rajput_Lagn/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1095569275/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1095569275/react-native-vector-icons.iml" group="Rajput_Lagn/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1384472272/react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1384472272/react-native-video.iml" group="Rajput_Lagn/react-native-video" />
+    </modules>
+  </component>
+</project>

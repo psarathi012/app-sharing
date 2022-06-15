@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "rajput-matrimony-8f30a",
+    "prod": "rajput-matrimony-production"
+  }
+}

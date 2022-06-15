@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "885705379881",
+    "firebase_url": "https://rajput-matrimony-8f30a.firebaseio.com",
+    "project_id": "rajput-matrimony-8f30a",
+    "storage_bucket": "rajput-matrimony-8f30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885705379881:android:32cb5feb281c7b03964c38",
+        "android_client_info": {
+          "package_name": "com.rajput_lagn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885705379881-8abchp46d5upk59ehv0j7qqkrk63efiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajput_lagn",
+            "certificate_hash": "2cd199bf80f3277ec1e739479ebe7056c258f95c"
+          }
+        },
+        {
+          "client_id": "885705379881-ds1gcb3sqsqcajf31nnr6n340kvcfb4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajput_lagn",
+            "certificate_hash": "3faef85dcc0faa175956d8540edf0c60781ce844"
+          }
+        },
+        {
+          "client_id": "885705379881-ii3g98b1he4el214eitl1teaj9vh5s5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajput_lagn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "885705379881-oapr4kq069se61msk6t51lrqjncck1vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KGLWEChan_q4IBkiGiDh2r68Cs3MwGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885705379881-oapr4kq069se61msk6t51lrqjncck1vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
